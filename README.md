@@ -1,5 +1,9 @@
 # Machine-Learning-and-Deep-Learning
 Machine Learning and Deep Learning are two major sub-fields within Artificial Intelligence (AI) that focus on the ability of computers to learn from data and make decisions or predictions. Although closely related, they have different approaches, algorithms and applications.
+Machine Learning Allows computers to learn from data without being explicitly programmed for a specific task. In ML, algorithms are trained on existing data to find patterns or make decisions based on new data.
+Deep Learning is a sub-field of Machine Learning that uses artificial neural networks inspired by the structure and function of the human brain. Deep Learning is highly effective for processing large amounts of data and producing accurate results in complex problems, especially those involving unstructured data such as images, sound and text.
+
+Machine Learning and Deep Learning have revolutionised various industries with innovative applications. Machine Learning is suitable for tasks that require simple algorithms and structured data. Meanwhile, Deep Learning excels at processing unstructured data and providing accurate results for highly complex problems. Both are essential parts in the development of more advanced artificial intelligence systems.
 
 Case 1 Predicting Customer Churn in Banking Using Machine Learning Models
 
